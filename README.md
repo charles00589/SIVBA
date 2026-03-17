@@ -1,4 +1,4 @@
-# SIVBA: security implrmentatio for vulnerable Bank Application
+# SIVBA: security implementation  for vulnerable Bank Application
 ## 🛡️ Security Hardening & Penetration Testing Project
 
 ![Security Status](https://img.shields.io/badge/Security-Hardened-success?style=for-the-badge&logo=shield)
