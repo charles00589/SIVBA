@@ -1,0 +1,33 @@
+# Deliverables
+D1_Security_Architecture.md
+D2_Encryption_Data_Protection.md
+D3_Auth_AuthZ_Guide.md
+D4_Secure_Coding_Guidelines.md
+D5_API_Network_Security.md
+D6_Privacy_Compliance_Report.md
+D7_Monitoring_IR_Plan.md
+D8_User_Training_Pack.md
+README.md
+
+# Build Artifacts & Binaries
+*.apk
+*.run
+*.exe
+genymotion/
+
+# Logs & Temp
+*.log
+__pycache__/
+*.pyc
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+venv/
+env/
+.env
